@@ -1,0 +1,49 @@
+a{
+    text-decoration:none;
+}
+ul{
+    margin:0pc;
+    padding:0pc;
+    list-style: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color:white;
+    font-size:22px;
+    padding:15px;
+    &:hover{
+        background:orange;
+    }
+}
+.gold h1{
+    color:rgb(19, 124, 168);
+    font-size:10px;
+
+}
+.finger{
+    font-size:30px;
+    font-weight: bold;
+    color:white;
+    
+   
+    
+}
+.light h4{
+    font-size:30px;
+}
+.diamond{
+    font-size:10px;
+}
+
+.fan h4{
+    color:white;
+    font-size:15px;
+}
+.table h4{
+    font-size:10px;
+    color:white;
+
+}
+
+
+
+
